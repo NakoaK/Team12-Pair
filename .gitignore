@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+Config/DefaultEngine.ini
